@@ -8,16 +8,14 @@ function AboutCard() {
       <Card.Body>
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am{" "}
-            <span className="purple">Tesfawtsion Shemeles </span>
-            from <span className="purple"> Gelan!!!</span>
-            <br />I am a junior pursuing IMSC in Maths and Computing in BIT
-            Mesra.
-            <br />
-            <br />
-            Apart from coding, some other activities that I love to do!
+            I am a computer engineer and software developer currently working at
+            a company called Dan Energy as application developer. I have a good
+            skill set on web and Mobile app font end-development with strong and
+            an up-to-date knowledge to back it. More importantly, a highly
+            motivated productive team player who is also fast learner who can
+            grasp different skills and knowledge.
           </p>
-          <ul>
+          {/* <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Games
             </li>
@@ -27,7 +25,7 @@ function AboutCard() {
             <li className="about-activity">
               <ImPointRight /> Travelling
             </li>
-          </ul>
+          </ul> */}
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Strive to build things that make a difference!"{" "}

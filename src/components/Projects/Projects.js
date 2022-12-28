@@ -24,7 +24,7 @@ function Projects() {
               isBlog={false}
               title="Inventory application"
               // description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              // ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/Tesfawtsion/Inventory_management.git"
               // demoLink="https://chatify-49.web.app/"
             />
           </Col>
@@ -46,7 +46,7 @@ function Projects() {
               isBlog={false}
               title="Food Delivery app"
               // description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              // ghLink="https://github.com/soumyajit4419/Editor.io"
+              ghLink="https://github.com/Tesfawtsion/Food-Delivery-UI.git"
               // demoLink="https://editor.soumya-jit.tech/"
             />
           </Col>
